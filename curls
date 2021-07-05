@@ -1,0 +1,35 @@
+curl -i -X GET \
+ "https://graph.facebook.com/{your-user-id}
+   ?fields=id,name
+   &access_token={88892166144044c04cc89cd33b0c5bd6}"
+
+
+   curl -i -X GET "https://graph.facebook.com/2698061703805420/accounts
+     ?access_token={user-access-token}"
+
+   curl -i -X GET  "https://graph.facebook.com/v11.0/1314251948683709/feed?access_token=232331721389865|SnbERZ6edapi9otkVLCLDNIVuEs&grant_type=client_credentials"
+
+
+curl -i -X GET \
+ "https://graph.facebook.com/v11.0/1314251948683709/feed?access_token=EAADTTfG5NykBAGHQ82CS38hLZBaLY5LMRYIRAkB1sr5eCg1z8DnbN9rZBm1taZC7yUbxcIICqeNm2Y6hnfpboZCYKx7S7vW4SB7DllnPZBqWlLgGWkiPdjlk9jxnQ1bKRbun5fTYDk5bo2JNMeb2zZCyfNojIJx9EGVMAhLYQe2CAPk9FZAidGgvazbIHWfWhnlStRjfkxZCCgZDZD"
+
+   EAADTTfG5NykBAGHQ82CS38hLZBaLY5LMRYIRAkB1sr5eCg1z8DnbN9rZBm1taZC7yUbxcIICqeNm2Y6hnfpboZCYKx7S7vW4SB7DllnPZBqWlLgGWkiPdjlk9jxnQ1bKRbun5fTYDk5bo2JNMeb2zZCyfNojIJx9EGVMAhLYQe2CAPk9FZAidGgvazbIHWfWhnlStRjfkxZCCgZDZD
+
+
+  232331721389865|SnbERZ6edapi9otkVLCLDNIVuEs
+
+  curl -i -X GET "https://graph.facebook.com/me/accounts?access_token=232331721389865|SnbERZ6edapi9otkVLCLDNIVuEs
+
+
+  curl -ik "https://graph.facebook.com/v11.0/oauth/access_token?client_id=232331721389865&redirect_uri=https%3A%2F%2Fcovidatlas.herokuapp.com%2F&client_secret=88892166144044c04cc89cd33b0c5bd6&code=AQAOXk5aTX006U4oayxMgnZBJBwP15EpJp_qpcNFX4T9D5mfI7s6WPiF1UDfL1bqhXlrU9DdQupoiKi1QC6SdVD_UeBLa1cv3gHobcAH-A9604T4hodw0ZeFVN4Q5MvZjKkc9cjqiC0VmkLBM2f_K1wor6uZaXy3dMI7QSrmJaDeM683_2ay_bNwSKhTNKG4PlSzdZDfpaRu_qtoVZ1FreEG3MK20KnV5nm4SSm-pqTCxoJlnASJD59spbpF8KjokxJVNKGI4bsjIbBzpTsGozZ6Ge7uwGO9Z5Q0w_KOfXXhezGNJ_YzQZ1L6-y8KNnBlNErz5-M780omEdUOl7z6SSpsGCU2gZJGayeJGNLNme3AQ#_=_"
+
+
+
+  curl -i GET "https://www.facebook.com/v11.0/dialog/oauth?client_id=232331721389865&redirect_uri=https%3A%2F%2Fcovidatlas.herokuapp.com%2F&client_secret=88892166144044c04cc89cd33b0c5bd6"
+
+
+  curl -i GET "https://www.facebook.com/v11.0/dialog/oauth?client_id=232331721389865&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2F&client_secret=88892166144044c04cc89cd33b0c5bd6"
+
+
+
+  https://www.facebook.com/v11.0/dialog/oauth?client_id=232331721389865&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2F&client_secret=88892166144044c04cc89cd33b0c5bd6
